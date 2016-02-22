@@ -48,7 +48,7 @@ function test {
 }
 
 function run {
-  cargo run "$@"
+  cargo run --quiet -- "$@"
 }
 
 main "$@"

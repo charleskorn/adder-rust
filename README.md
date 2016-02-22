@@ -1,6 +1,6 @@
 # adder
 
-The second Shokunin challenge... a quick-and-dirty Rust solution after my Elixir solution failed
+The second Shokunin challenge... a quick-and-dirty Rust solution after I got stuck with my Elixir solution
 
 > Write a program that adds two (or more) integers, without using any of the plus literal (+),
 > the minus literal (-), the add method (or equivalent), the subtraction method (or equivalent),
@@ -21,3 +21,7 @@ Run `./go.sh check` to test that everything looks OK.
 ## Testing
 
 * Run `./go.sh test` to run the tests
+
+## Warnings
+
+* Is almost certainly god-awful, non-idiomatic Rust code.
