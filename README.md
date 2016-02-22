@@ -22,6 +22,6 @@ Run `./go.sh check` to test that everything looks OK.
 
 * Run `./go.sh test` to run the tests
 
-## Warnings
+## :warning: A warning
 
-* Is almost certainly god-awful, non-idiomatic Rust code.
+This code is almost certainly god-awful, non-idiomatic Rust code.
